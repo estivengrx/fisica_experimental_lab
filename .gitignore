@@ -20,3 +20,5 @@ env/
 
 # Ignoring repository: https://github.com/jmmarinr/FisExperimental3.git, class requirements
 Experimental Physics III/FisExperimental3
+
+*.pdf
